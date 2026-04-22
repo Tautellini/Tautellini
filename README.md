@@ -52,8 +52,6 @@
   <img src="https://img.shields.io/badge/MCP%20Servers-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP Servers" />
 </p>
 
-<img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=Tautellini&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=A78BFA&point=ffffff&hide_border=true&area=true&height=175" alt="activity graph" />
-
 </div>
 
 <div align="center">
@@ -68,9 +66,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" width="100%" alt="animated footer" />
-
-<sub>thanks for scrolling — may your builds be green, your merges clean, and your espresso strong ☕</sub>
+<sub>may your builds be green, your merges clean, and your espresso strong ☕</sub>
 
 <br/>
 
