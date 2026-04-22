@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ciao,%20I'm%20Florian&fontSize=80&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=a.k.a.%20Tautellini%20%E2%80%A2%20software%20engineer%20%E2%80%A2%20serial%20tinkerer&descSize=18&descAlignY=56" width="100%" alt="animated header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ciao,%20I'm%20Florian&fontSize=80&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=a.k.a.%20Tautellini%20%E2%80%A2%20I build stuff&descSize=18&descAlignY=56" width="100%" alt="animated header" />
 
 <a href="https://github.com/Tautellini">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=780&lines=welcome+to+my+little+corner+of+github+%F0%9F%8C%8C;i+build+things%2C+break+them%2C+ship+them+anyway;pull+requests+%3E+pull+ups;yes+%E2%80%94+like+the+pasta%2C+but+with+more+bugs" alt="rotating tagline" />
@@ -9,40 +9,6 @@
 </div>
 
 ---
-
-### 🧭 &nbsp;about.me
-
-```yaml
-name:      Florian Taute
-alias:     Tautellini # i like pasta ...
-role:      software engineer @ fulfillmenttools
-located:   somewhere between the IDE and the coffee machine
-speaking:  de, en, kts ...
-fuel:      espresso, a lot.
-motto:     thats a hard one. I keep changing. Maybe: "Only ship value."
-```
-
-### 🚀 &nbsp;currently
-
-<table>
-  <tr>
-    <td>🔭</td><td><b>building</b></td><td>Apps & Games & AI Slop</td>
-  </tr>
-  <tr>
-    <td>🌱</td><td><b>learning</b></td><td>more precise articulation</td>
-  </tr>
-  <tr>
-    <td>🧪</td><td><b>experimenting with</b></td><td>Raymarching Shaders</td>
-  </tr>
-  <tr>
-    <td>💭</td><td><b>nerd-sniped by</b></td><td>[Maxime Heckel](https://blog.maximeheckel.com/posts/painting-with-math-a-gentle-study-of-raymarching/)</td>
-  </tr>
-  <tr>
-    <td>📬</td><td><b>reach me</b></td><td><a href="mailto:tautellini@outlook.de">tautellini@outlook.de</a></td>
-  </tr>
-</table>
-
-### 🛠️ &nbsp;the toolbox
 
 <p align="center">
   <sub><i>— languages I actually write —</i></sub>
@@ -117,14 +83,6 @@ motto:     thats a hard one. I keep changing. Maybe: "Only ship value."
     <img alt="snake devouring my contributions" src="https://raw.githubusercontent.com/Tautellini/Tautellini/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-### 🏆 &nbsp;trophies I definitely didn't trade for at the shop
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tautellini&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</div>
-
-### 🌐 &nbsp;find me in the wild
 
 <p align="center">
   <a href="mailto:tautellini@outlook.de">
