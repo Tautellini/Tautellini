@@ -71,17 +71,11 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:tautellini@outlook.de">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
-  </a>
   <a href="https://www.linkedin.com/in/florian-taute-51b929b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://tautellini.github.io/">
     <img src="https://img.shields.io/badge/website-A78BFA?style=for-the-badge&logo=firefox&logoColor=white" alt="website" />
-  </a>
-  <a href="https://github.com/Tautellini">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
 
